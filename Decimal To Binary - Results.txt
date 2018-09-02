@@ -1,0 +1,44 @@
+The binary number you entered was 255
+That number in decimal notation was 11111111
+
+
+The binary number you entered was 0
+That number in decimal notation was 01110000
+
+
+The binary number you entered was 1
+That number in decimal notation was 01110001
+
+
+The binary number you entered was 2
+That number in decimal notation was 01110010
+
+
+The binary number you entered was 3
+That number in decimal notation was 01110011
+
+
+The binary number you entered was 255
+That number in decimal notation was 11111111
+
+
+The binary number you entered was 1
+That number in decimal notation was 01110001
+
+
+The binary number you entered was 2
+That number in decimal notation was 01110010
+
+
+The binary number you entered was 16
+That number in decimal notation was 01110000
+
+
+The binary number you entered was 254
+That number in decimal notation was 11111110
+
+
+The binary number you entered was 36
+That number in decimal notation was 01100100
+
+
