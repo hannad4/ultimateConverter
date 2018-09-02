@@ -1,6 +1,4 @@
 /*============================================================================
-Author      : Danny Hanna
-Modified by : -
 Date        : 5/9/2017
 Course      : CSC-215
 File Name   : ultimateConverter.cpp
