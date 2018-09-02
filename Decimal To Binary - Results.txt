@@ -40,5 +40,3 @@ That number in decimal notation was 11111110
 
 The binary number you entered was 36
 That number in decimal notation was 01100100
-
-
