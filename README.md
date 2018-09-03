@@ -23,7 +23,7 @@ Please note, both of these methods will only be successful for Windows Operating
 2) Open the folder that the file was downloaded to
 3) Right click on the file and click on `Open`
 4) Follow the programs instructions as they are prompted on screen
-5) When the program has finished running, and output file may have been written to the folder that the program was downloaded to. Check the file to see a record of your inputs.
+5) When the program has finished running, an output file may have been written to the folder that the program was downloaded to. Check the file to see a record of your inputs.
 
 
 *USING THE CPP FILE:*
