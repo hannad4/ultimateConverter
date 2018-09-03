@@ -393,6 +393,7 @@ int hexadecimalToDecimalINTRO() {
 // INTRODUCTION AND MENU NAVIGATION CODE //
 int main() {
 	cout << "Welcome to Ultimate Converter.\nThis program aims to teach you the many types of numbering systems for computers & computations" << endl;  // Basic intro
+	cout << "PLEASE NOTE: There may be bugs and glitches while running this program.\nMr.Developer apologizes; he stayed up very late in the night sometimes making this, and hopes that you can still enjoy the program :-).
 	Sleep(3000);
 	cout << "\n\nPlease Choose one of the following options (enter the option's name followed by the enter key)" << endl;    // Prompt for input
 	Sleep(1500);
